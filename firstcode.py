@@ -1,4 +1,4 @@
 def firstcode():
-    return "Helloworld!!!"
+    print("Helloworld!!!")
     
-print(firstcode())
+firstcode()
